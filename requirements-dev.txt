@@ -1,0 +1,5 @@
+black
+fastapi
+uvicorn[standard]
+datamodel-code-generator
+jellyfish

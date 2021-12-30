@@ -24,3 +24,13 @@ pip3 install wheel
 pip3 install -r requirements.txt
 pip3 install -r requirements-dev.txt
 ```
+
+# Local Development
+
+```
+  source .venv/bin/activate
+  Windows: `.\.venv\Scripts\activate`
+  pip3 install -r requirements.txt
+  pip3 install -r requirements-dev.txt
+  python sort.py
+```
